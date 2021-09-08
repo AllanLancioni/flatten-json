@@ -1,0 +1,2 @@
+export function flattenJSON(obj: {[key: string]: any} | {[key: string]: any}[]): {[key: string]: any};
+export function unflattenJSON(flatObj: {[key: string]: any}): {[key: string]: any} | {[key: string]: any}[];
