@@ -1,11 +1,9 @@
 {
   "name": "@allanlancioni/flatten-json",
-  "version": "1.0.0",
-  "description": "Simple module to flatten and unflatten a JavaScript object ",
+  "version": "1.0.1",
+  "description": "Simple module to flatten and unflatten a JavaScript object.",
   "main": "index.js",
-  "dependencies": {
-    "vue-cli-plugin-vuetify": "^2.0.8"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
